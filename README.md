@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klaas3371
 - 👀 I’m interested in all good idea's regarding coding
-- 🌱 I’m currently learning AZ-500
+- 🌱 I’m currently learning AZ-400
 - 💞️ I’m looking to collaborate on Powershell
 - 📫 How to reach me by email
 
